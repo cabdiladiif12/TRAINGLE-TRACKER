@@ -20,6 +20,9 @@ The project runs on a browser,It is a calculator that is configured to take in t
 | Input of two sides than are not greater than the third | 1,2,3 | Not a triangle       |
 
 
+      RESULT
+link of the result of build TRIANGLE TRACKER  https://cabdiladiif12.github.io/TRAINGLE-TRACKER/
+
 
 ## Technologies Used
 
